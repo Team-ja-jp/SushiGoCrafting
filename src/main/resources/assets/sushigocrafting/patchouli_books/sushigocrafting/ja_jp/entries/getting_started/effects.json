@@ -1,5 +1,5 @@
 {
-  "name": "Eating Effects",
+  "name": "食事の効果",
   "icon": "sushigocrafting:avocado_slices",
   "category": "sushigocrafting:getting_started",
   "sortnum": 0,
@@ -7,25 +7,25 @@
   "pages": [
     {
       "type": "text",
-      "text": "Using different types of ingredients to make a type of sushi will get you different effects to make your food better"
+      "text": "さまざまな種類の材料を使ってすしを作ることで、さまざまな効果を持つより良い食べ物を作ることができます"
     },
     {
       "type": "spotlight",
       "item": "sushigocrafting:salmon_fillet",
-      "title": "Small Bites",
-      "text": "Eating when having this potion effect will give you a small chance of not consuming the item."
+      "title": "小食",
+      "text": "このポーション効果を持っているときに食事をすると、わずかな確率でアイテムを消費せずに済みます。"
     },
     {
       "type": "spotlight",
       "item": "sushigocrafting:tuna_fillet",
-      "title": "Acquired Taste",
-      "text": "Eating when having this potion effect will give extra food."
+      "title": "病みつき",
+      "text": "このポーション効果を持っているときに食事をすると、追加で満腹度を得ます。"
     },
     {
       "type": "spotlight",
       "item": "sushigocrafting:shrimp",
-      "title": "Steady Hands",
-      "text": "Using a cutting board when having this potion effect will give extra weights in your ingredients."
+      "title": "手際",
+      "text": "このポーション効果を持っているときにまな板を使うと、材料の重量が増えます。"
     }
   ]
 }
