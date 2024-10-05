@@ -1,5 +1,5 @@
 {
-  "name": "Cooler Box",
+  "name": "クーラーボックス",
   "icon": "sushigocrafting:cooler_box",
   "category": "sushigocrafting:using_tools",
   "sortnum": 1,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "A handy box used to combine automatically ingredients that have weight, just place them inside and they will be combined."
+      "text": "重さのある材料を自動的に結合してくれる便利なボックスです。中に入れるだけで結合されます。"
     },
     {
       "type": "crafting",
