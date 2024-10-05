@@ -1,5 +1,5 @@
 {
-  "name": "Rice Cooker",
+  "name": "炊飯器",
   "icon": "sushigocrafting:rice_cooker",
   "category": "sushigocrafting:using_tools",
   "sortnum": 2,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "A machine used to cook rice perfectly to $(6)Uncle Roger$() standards. To cook it you will need Rice, Water and some fuel to cook it up. $(br2)You won't have to worry about the weights in the output slot, Cooked Rice will be combined automatically."
+      "text": "$(6)ロジャーおじさん$()も認める完璧に米を炊くのに使う機械。炊飯をするには米、水、燃料が必要です。$(br2)出力スロットにおける重さに関して心配はご無用です。炊いた米は自動的に結合されます。"
     },
     {
       "type": "crafting",
